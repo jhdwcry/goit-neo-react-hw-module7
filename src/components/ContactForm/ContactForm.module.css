@@ -1,0 +1,17 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.input {
+  background-color: white;
+  border: 1px solid grey;
+  border-radius: 5px;
+  padding: 8px 15px;
+  color: black;
+}
+
+.button {
+  background-color: blueviolet;
+}
